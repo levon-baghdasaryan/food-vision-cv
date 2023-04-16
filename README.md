@@ -1,1 +1,1 @@
-# food-vision-cv
+# Computer Vision project for food images using TensorFlow machine learning library.
